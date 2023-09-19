@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+I'm Romain Humair
+
+
 <!--
 **HumairRomain/HumairRomain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Hello, I'm Romain Humair
-
+Hello, 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
